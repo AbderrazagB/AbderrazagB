@@ -201,7 +201,6 @@ class Abderrazag:
 → AI Security & Prompt Injection Defense
 → Hybrid Retrieval & Reranking Pipelines
 → Lightweight LLM Infrastructure
-→ Decentralized Identity (DID / Verifiable Credentials)
 ```
 
 ---
@@ -216,10 +215,3 @@ class Abderrazag:
 
 </div>
 
----
-
-<div align="center">
-
-### "Ship it small. Make it scale."
-
-</div>
