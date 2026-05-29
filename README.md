@@ -207,10 +207,6 @@ class Abderrazag:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbderrazagB&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-
-<br>
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=AbderrazagB&theme=transparent&hide_border=true"/>
 
 </div>
